@@ -23,6 +23,6 @@ The most significant change was in the percentage passing reading and overall pa
 * Scores by school type
 With Thomas High School being a Charter school there was only a difference of 0.01% in the math passing percentage, and 0.04% in both passing reading percentage and overall passing percentage
 
-##Summary
+## Summary
 After analysing all this data we can conclude that the school summary was the most affected by the changes lowering their overall passing rate by 25% compared to the district summary wich was barely affected at all. We can also see a clear fall in the school rank after removing the ninth grade lowering their status by 6 places in the whole district while most of the scores did not have a significant change. This proves us that if this class was really commmiting academic dishonesty it was good to create this analysis since you can see the real ranking of the schools
  
